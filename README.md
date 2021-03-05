@@ -1,6 +1,9 @@
-# Project Name
-Check it out [here!]()
+# Timer
+
+Check it out [here!](https://ianbrdeguzman.github.io/timer/)
+
 #### Created using:
-* HTML5
-* CSS3
-* JavaScript
+
+-   HTML5
+-   CSS3
+-   JavaScript
